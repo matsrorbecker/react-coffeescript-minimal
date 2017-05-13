@@ -1,6 +1,8 @@
 node_modules
-app/styles/
-app/assets/fonts/
+app/styles/*
+!app/styles/.keep
+app/assets/fonts/*
+!app/assets/fonts/.keep
 public
 *.sublime-project
 *.sublime-workspace
