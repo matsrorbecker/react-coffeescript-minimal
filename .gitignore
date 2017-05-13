@@ -1,0 +1,6 @@
+node_modules
+app/styles/
+app/assets/fonts/
+public
+*.sublime-project
+*.sublime-workspace
